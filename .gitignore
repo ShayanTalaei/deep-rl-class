@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not .py and .ipynb files
+!*.py
+!*.ipynb
+
+# Keep .gitignore
+!.gitignore
+
+# Keep directories
+!*/
+
+**/venv/**
